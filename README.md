@@ -4,7 +4,7 @@ A simple and clean to-do list web application built using HTML, CSS, and vanilla
 
 The purpose of this project is to practice dynamic element creation, event-driven programming, and real-time updates using JavaScript
 
-
+🔗👉 click here to see the live demo--> https://nanthakumar-m.github.io/to-do/
 
 ## ⚙️ Technologies Used
 
