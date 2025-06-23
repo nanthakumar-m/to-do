@@ -31,3 +31,12 @@ The purpose of this project is to practice dynamic element creation, event-drive
 ✅ Understood the importance of event listeners and state updating in a list-based UI
 
 ✅ Strengthened logic-building through a minimal, functional project  
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/78f1f62b-ed6c-422d-a65c-9e6bb7718223)
+
+![image](https://github.com/user-attachments/assets/79856310-9738-4c7e-9d8a-5a95754a0b0c)
+
+![image](https://github.com/user-attachments/assets/47995dac-f15e-4e8a-a357-907d2bdd9c68)
+
